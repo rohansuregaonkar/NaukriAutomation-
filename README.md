@@ -1,4 +1,4 @@
-# 🤖 Indeed Automation Project (Job Scraping & Auto Apply)
+# 🤖 Naukri Automation Project (Job Scraping & Auto Apply)
 
 This is a Java + Selenium-based automation project that performs the following actions on job platforms like Naukri/Indeed:
 
